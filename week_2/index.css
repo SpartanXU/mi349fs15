@@ -1,0 +1,38 @@
+html {
+  background-color: white;
+}
+
+body {
+  background-color: lightgray;
+  margin: auto;
+  width: 1000px;
+  font-family: serif;
+  font-size: 20px;
+}
+
+#topic {
+  text-align: center;
+  font-size: 70px;
+  font-weight: lighter;
+  font-family: serif;
+  background-color: white;
+  padding-bottom: 30px;
+}
+
+#p1 {
+  padding-bottom: 50px;
+}
+
+.title_l2 {
+  font-size: 30px;
+  background-color:lightgray;
+}
+
+
+#picture {
+  margin: auto;
+  float: left;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+}
