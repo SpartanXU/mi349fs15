@@ -1,0 +1,31 @@
+.good_example {
+  width:400px;
+  height:300px;
+  border: 1px solid #333;
+  background-color: #C0C0C0;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.good_example h1 {
+  padding-top: 50px;
+  text-align: center;
+}
+
+.good_example .button_container {
+  margin-top: 60px;
+}
+
+.bad_example {
+  margin-top: 50px;
+  width:400px;
+  height:300px;
+  border: 1px solid #333;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bad_example h1{
+  padding-top: 50px;
+  text-align: center;
+}
