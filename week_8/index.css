@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+.header{
+  width: 100%;
+  background-color: #330099;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.header h1 {
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.column {
+  background-color: #e3e3e3;
+  float: left;
+  padding-left: 3.3%;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 30%;
+}
+
+@media (max-width:799px) {
+  .column {
+    float: none;
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 90%;
+  }
+}
+@media (min-width:800px) and (max-width:1199px) {
+  .column {
+    float: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 40%;
+  }
+}
