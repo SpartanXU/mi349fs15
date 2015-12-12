@@ -1,0 +1,1 @@
+  This is a web platform and a single page scroller(at least with current function), content highly rely on user action. Database development in progress so this website can't be fully functional.
